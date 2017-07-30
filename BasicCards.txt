@@ -1,0 +1,6 @@
+{"front":"2+2","back":"4"}
+{"front":"4+4","back":"8"}
+{"front":"6+6","back":"12"}
+{"front":"8+4","back":"12"}
+{"front":"7+2","back":"9"}
+{"front":"4+2","back":"6"}

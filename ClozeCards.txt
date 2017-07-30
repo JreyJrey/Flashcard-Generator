@@ -1,0 +1,4 @@
+{"cloze":"Jordan","fullText":"Jordan was the greatest coder!","partial":"...  was the greatest coder!"}
+{"cloze":"Jordan","fullText":"Jordan roles deep.","partial":"...  roles deep."}
+{"cloze":"Cody","fullText":"Cody was helping Jordan.","partial":"...  was helping Jordan."}
+{"cloze":"Austin","fullText":"Austin sucks.","partial":"...  sucks."}
